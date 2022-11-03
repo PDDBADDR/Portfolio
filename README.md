@@ -1,6 +1,6 @@
-Simple project managment (frontend):
-  source code: https://github.com/PDDBADDR/ProjectManagmentFrontend
-  demo: pm.apodbielski.pl
-Simple project managment (backend):
-  source code: https://github.com/PDDBADDR/ProjectManagmentBackend
-  demo: https://mmt1ba.deta.dev/docs
+Simple project managment (frontend): <br/>
+  source code: https://github.com/PDDBADDR/ProjectManagmentFrontend<br/>
+  demo: pm.apodbielski.pl<br/>
+Simple project managment (backend):<br/>
+  source code: https://github.com/PDDBADDR/ProjectManagmentBackend<br/>
+  demo: https://mmt1ba.deta.dev/docs<br/>
